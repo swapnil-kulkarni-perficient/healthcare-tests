@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Search For CareHealthfirst 65 Plus Plan_b3e24e</name>
+   <tag></tag>
+   <elementGuidId>b886873b-e7c7-43cc-a21f-4db55ec967f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.BackgroundContainer-sc-14pjxxt-1.kqfwHj</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='provider-dir-outer-container']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>36f1768c-8093-433e-8848-6adafc8b0486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>BackgroundContainer-sc-14pjxxt-1 kqfwHj</value>
+      <webElementGuid>85116535-4ccc-4d56-95ec-d796bd7ba5c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search For CareHealthfirst 65 Plus Plan (HMO)Healthfirst 65 Plus Plan (HMO)Healthfirst Child Health PlusHealthfirst CompleteCare (HMO D-SNP)Healthfirst Essential Plan - NYSOH MarketplaceHealthfirst Gold and Silver Leaf Premier Plus Plans - NYSOH MarketplaceHealthfirst HMO A, HMO B, HMO C, HMO D and HMO EHealthfirst HMO A-VAD, HMO B-VAD, HMO C-VAD and HMO D-VADHealthfirst Increased Benefits Plan (HMO)Healthfirst Life Improvement Plan (HMO D-SNP)Healthfirst Medicaid Managed CareHealthfirst Personal Wellness Plan (HARP)Healthfirst Platinum, Gold, Silver and Bronze Leaf Premier Plans - NYSOH MarketplaceHealthfirst Platinum, Gold, Silver and Bronze Pro EPO PlansHealthfirst Platinum, Gold, Silver and Bronze Pro Plus EPO PlansHealthfirst Platinum, Gold, Silver and Bronze Total EPO PlansHealthfirst Platinum, Gold, Silver, Bronze and Green Leaf Plans - NYSOH MarketplaceHealthfirst Signature (HMO)Healthfirst Signature (PPO)Senior Health PartnersSearchDirectory last updated on: September 01, 2023Common SearchesPrimary Care ProviderUrgent CareDentistry GeneralDermatologyMental Health &amp; Substance AbuseObstetrics and GynecologyVisionPharmaciesOrder a Print DirectoryPlease click here to receive a printed version of the directory.Digital Contact InformationEndpoints provide a secure way for health care entities to send authenticated, encrypted health information.</value>
+      <webElementGuid>6b01e471-5c91-48e0-b4e0-849f879d69d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;provider-dir-outer-container&quot;)/div[@class=&quot;Container-sc-14pjxxt-0 bBQJOf&quot;]/div[@class=&quot;BackgroundContainer-sc-14pjxxt-1 kqfwHj&quot;]</value>
+      <webElementGuid>40c61480-7978-4d32-9f43-c243b3e23f8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='provider-dir-outer-container']/div/div</value>
+      <webElementGuid>63917842-b84d-4d1c-b1e2-b81fdd935271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find a Doctor'])[5]/following::div[8]</value>
+      <webElementGuid>887ddda7-8233-4b2b-ad1d-a8f514cb505b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='中文'])[2]/following::div[14]</value>
+      <webElementGuid>0c7cfec1-baeb-41c6-bf38-a6b7340d1dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//region/div/div/div</value>
+      <webElementGuid>cbc77a59-938d-4745-adea-930fb526b171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Search For CareHealthfirst 65 Plus Plan (HMO)Healthfirst 65 Plus Plan (HMO)Healthfirst Child Health PlusHealthfirst CompleteCare (HMO D-SNP)Healthfirst Essential Plan - NYSOH MarketplaceHealthfirst Gold and Silver Leaf Premier Plus Plans - NYSOH MarketplaceHealthfirst HMO A, HMO B, HMO C, HMO D and HMO EHealthfirst HMO A-VAD, HMO B-VAD, HMO C-VAD and HMO D-VADHealthfirst Increased Benefits Plan (HMO)Healthfirst Life Improvement Plan (HMO D-SNP)Healthfirst Medicaid Managed CareHealthfirst Personal Wellness Plan (HARP)Healthfirst Platinum, Gold, Silver and Bronze Leaf Premier Plans - NYSOH MarketplaceHealthfirst Platinum, Gold, Silver and Bronze Pro EPO PlansHealthfirst Platinum, Gold, Silver and Bronze Pro Plus EPO PlansHealthfirst Platinum, Gold, Silver and Bronze Total EPO PlansHealthfirst Platinum, Gold, Silver, Bronze and Green Leaf Plans - NYSOH MarketplaceHealthfirst Signature (HMO)Healthfirst Signature (PPO)Senior Health PartnersSearchDirectory last updated on: September 01, 2023Common SearchesPrimary Care ProviderUrgent CareDentistry GeneralDermatologyMental Health &amp; Substance AbuseObstetrics and GynecologyVisionPharmaciesOrder a Print DirectoryPlease click here to receive a printed version of the directory.Digital Contact InformationEndpoints provide a secure way for health care entities to send authenticated, encrypted health information.' or . = 'Search For CareHealthfirst 65 Plus Plan (HMO)Healthfirst 65 Plus Plan (HMO)Healthfirst Child Health PlusHealthfirst CompleteCare (HMO D-SNP)Healthfirst Essential Plan - NYSOH MarketplaceHealthfirst Gold and Silver Leaf Premier Plus Plans - NYSOH MarketplaceHealthfirst HMO A, HMO B, HMO C, HMO D and HMO EHealthfirst HMO A-VAD, HMO B-VAD, HMO C-VAD and HMO D-VADHealthfirst Increased Benefits Plan (HMO)Healthfirst Life Improvement Plan (HMO D-SNP)Healthfirst Medicaid Managed CareHealthfirst Personal Wellness Plan (HARP)Healthfirst Platinum, Gold, Silver and Bronze Leaf Premier Plans - NYSOH MarketplaceHealthfirst Platinum, Gold, Silver and Bronze Pro EPO PlansHealthfirst Platinum, Gold, Silver and Bronze Pro Plus EPO PlansHealthfirst Platinum, Gold, Silver and Bronze Total EPO PlansHealthfirst Platinum, Gold, Silver, Bronze and Green Leaf Plans - NYSOH MarketplaceHealthfirst Signature (HMO)Healthfirst Signature (PPO)Senior Health PartnersSearchDirectory last updated on: September 01, 2023Common SearchesPrimary Care ProviderUrgent CareDentistry GeneralDermatologyMental Health &amp; Substance AbuseObstetrics and GynecologyVisionPharmaciesOrder a Print DirectoryPlease click here to receive a printed version of the directory.Digital Contact InformationEndpoints provide a secure way for health care entities to send authenticated, encrypted health information.')]</value>
+      <webElementGuid>19c757a0-4e54-4bf4-839e-2e51e523cb42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

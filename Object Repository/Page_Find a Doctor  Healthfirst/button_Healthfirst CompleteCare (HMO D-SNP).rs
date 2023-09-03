@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Healthfirst CompleteCare (HMO D-SNP)</name>
+   <tag></tag>
+   <elementGuidId>1b2844d0-dad5-43b2-8e7b-74f7ec755b17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dropdownList2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='dropdownList2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>02849af0-59dd-44b0-961a-8a7b7fe91399</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dropdownList2</value>
+      <webElementGuid>f3938cf8-0792-436a-af36-b8b4e9ea202a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Healthfirst CompleteCare (HMO D-SNP)</value>
+      <webElementGuid>14993bdc-3ebe-476b-80be-3ee7b1a0fad0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DropdownLabel-m03vzn-8 fMUzBo</value>
+      <webElementGuid>0fe16f21-ec56-4790-94bf-ffc30b840290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Healthfirst CompleteCare (HMO D-SNP)</value>
+      <webElementGuid>7987ffea-ab80-4298-93c0-3fa7bb5c1f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdownList2&quot;)</value>
+      <webElementGuid>2b4f1b63-b2fb-4756-a7f0-0a85c6b4360d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='dropdownList2']</value>
+      <webElementGuid>e390b03a-cf29-47b9-ab92-0a6372ae3f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='dropdownListItem2']/button</value>
+      <webElementGuid>73918b0c-db04-44d5-a54d-17fa55573186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthfirst Child Health Plus'])[1]/following::button[2]</value>
+      <webElementGuid>8591870c-dab0-4480-a090-4174edfba63a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthfirst 65 Plus Plan (HMO)'])[2]/following::button[4]</value>
+      <webElementGuid>c4d12546-197d-4ab4-8ba4-6d764a8b3658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthfirst Essential Plan - NYSOH Marketplace'])[1]/preceding::button[1]</value>
+      <webElementGuid>b6004d6f-307a-4df4-ab76-090716ffd924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthfirst Gold and Silver Leaf Premier Plus Plans - NYSOH Marketplace'])[1]/preceding::button[3]</value>
+      <webElementGuid>5811842f-082d-407b-86fe-7dfb1b9e7c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Healthfirst CompleteCare (HMO D-SNP)']/parent::*</value>
+      <webElementGuid>df697aae-cf83-4d90-9173-45c617839c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/button</value>
+      <webElementGuid>1fa33036-366f-45f4-b7b3-1a65034091f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'dropdownList2' and @name = 'Healthfirst CompleteCare (HMO D-SNP)' and (text() = 'Healthfirst CompleteCare (HMO D-SNP)' or . = 'Healthfirst CompleteCare (HMO D-SNP)')]</value>
+      <webElementGuid>4b00846a-0444-4bb5-bfa5-a7d06607d97f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

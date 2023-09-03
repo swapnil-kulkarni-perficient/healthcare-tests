@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Text Info</name>
+   <tag></tag>
+   <elementGuidId>611e74cd-4a99-47a1-b91b-778dd9b61d19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.TextInfoLabel-tgo80y-52.kOPepG</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='provider-dir-outer-container']/div[2]/div/div[2]/div/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d2d28717-bacc-4d0b-b2da-eea7f6e23848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>region</value>
+      <webElementGuid>6bd77bbe-7132-47b4-ac4e-e6b803277c89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>TextInfoBtn</value>
+      <webElementGuid>6c313b7a-415c-4dcd-b85d-ba6f51dba76b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TextInfoLabel-tgo80y-52 kOPepG</value>
+      <webElementGuid>b5a739ef-5916-43ca-9a13-e4a7f948dc7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Text Info</value>
+      <webElementGuid>8ad8bc79-7862-4763-9034-c86cff963caf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;provider-dir-outer-container&quot;)/div[@class=&quot;Container-cgp9dk-0 gIxxub&quot;]/div[@class=&quot;InnerWrapper-tgo80y-2 fNcKoj&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-5&quot;]/div[@class=&quot;DetailsCard-tgo80y-0 igzrPw&quot;]/div[@class=&quot;Section-tgo80y-4 huAyPV&quot;]/div[@class=&quot;TextInfoContainer-tgo80y-49 iFuAIF&quot;]/div[@class=&quot;TextInfoButton-tgo80y-50 cXzsMg&quot;]/a[@class=&quot;TextInfoLabel-tgo80y-52 kOPepG&quot;]</value>
+      <webElementGuid>1ccd2e14-ab91-45a8-a50d-f69e054b7b64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='provider-dir-outer-container']/div[2]/div/div[2]/div/div/div/div/div/a</value>
+      <webElementGuid>a6a184c9-13c2-404d-b557-3fea3061aef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Text Info')]</value>
+      <webElementGuid>452de2e9-677a-49b1-9516-503921ef661b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Results'])[1]/following::a[1]</value>
+      <webElementGuid>5aa68f9d-a82f-43cc-a9b1-8c7df39c239a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report a map error'])[1]/following::a[1]</value>
+      <webElementGuid>381800de-1a94-4560-befc-16fb48efea55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GARY B PALATUCCI, MD'])[1]/preceding::a[1]</value>
+      <webElementGuid>b819666c-aa1c-4254-8e9a-00a4d69b8b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internal Medicine'])[1]/preceding::a[1]</value>
+      <webElementGuid>c53199f8-18de-4d83-835d-a373368b2265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Text Info']/parent::*</value>
+      <webElementGuid>706ff07b-27f2-42ce-8dd6-c6cba6d129c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/a</value>
+      <webElementGuid>407db821-02d9-4dc6-9ec5-e0797da74206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Text Info' or . = 'Text Info')]</value>
+      <webElementGuid>f9448a70-9d59-4c48-85a5-b31f3675fec8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jersey City, NJ 07310</name>
+   <tag></tag>
+   <elementGuidId>34b5fb38-5d4c-4f5c-ab99-991c9c2a1b12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Result-sc-1gxiho4-5.dDKgag</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='334274454']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1be2677a-7638-4d50-bf8f-b4745d9c0058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Result-sc-1gxiho4-5 dDKgag</value>
+      <webElementGuid>4268caee-3670-49fe-baa6-afd5f2c62889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jersey City, NJ 07310</value>
+      <webElementGuid>d3a25770-3396-4f10-910f-7765e0607e44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;334274454&quot;)/div[@class=&quot;Result-sc-1gxiho4-5 dDKgag&quot;]</value>
+      <webElementGuid>a78b004c-f02e-4e9e-ac84-091f666dd78c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='334274454']/div</value>
+      <webElementGuid>ee1917fc-dbdc-44ab-b461-6f50ef8c8f1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', '334274454', '&quot;', ')/div[@class=', '&quot;', 'Result-sc-1gxiho4-5 dDKgag', '&quot;', ']')])[1]/following::div[5]</value>
+      <webElementGuid>49d7aa21-c14a-4171-bf45-e63288c4bfe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Something went wrong'])[1]/following::div[12]</value>
+      <webElementGuid>916e5ee9-e7f6-4d66-8d1b-cc5435640967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jersey City, NJ 07310']/parent::*</value>
+      <webElementGuid>c64438af-02ad-42ba-9a73-7b7a93a1b401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li/div</value>
+      <webElementGuid>e093ec8d-5642-4ab7-bf31-9be279775d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Jersey City, NJ 07310' or . = 'Jersey City, NJ 07310')]</value>
+      <webElementGuid>98397e6d-c661-4a83-af80-de94d43a8833</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

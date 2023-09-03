@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Primary Care Provider</name>
+   <tag></tag>
+   <elementGuidId>9a30b8d5-5d20-4e01-9192-52a00db521ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.CommonSearchesText-sc-14pjxxt-9.eKuiEC</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='commonsearchitem']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>550182cb-4002-4f04-bf28-b4f041f1822a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>region</value>
+      <webElementGuid>8fbb399e-fb93-482b-9a64-d9bbf5d08b02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Primary Care Provider</value>
+      <webElementGuid>dbc0ed34-07ed-40c8-ad37-495e4a2cc282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>CommonSearchesText-sc-14pjxxt-9 eKuiEC</value>
+      <webElementGuid>6930e45e-cb21-48c2-9c2e-9a9d15eb247e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Primary Care Provider</value>
+      <webElementGuid>fdc0867c-8c55-4679-bcfc-7085f0efde4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;provider-dir-outer-container&quot;)/div[@class=&quot;Container-sc-14pjxxt-0 bBQJOf&quot;]/div[@class=&quot;BackgroundContainer-sc-14pjxxt-1 kqfwHj&quot;]/div[@class=&quot;InnerContainer-sc-14pjxxt-2 jDNmMR&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/button[@id=&quot;commonsearchitem&quot;]/p[@class=&quot;CommonSearchesText-sc-14pjxxt-9 eKuiEC&quot;]</value>
+      <webElementGuid>3c0c090c-e719-4372-8e60-1db6961e7caa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='commonsearchitem']/p</value>
+      <webElementGuid>d7dd8944-5fcf-49dc-b6a4-0a5d8ccf3551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Common Searches'])[1]/following::p[1]</value>
+      <webElementGuid>ea770190-2a0b-485b-b34b-450d251fdd3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Directory last updated on: September 01, 2023'])[1]/following::p[1]</value>
+      <webElementGuid>17332eca-7c96-4c6d-937a-cc6b82089291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Our Plans'])[1]/preceding::p[12]</value>
+      <webElementGuid>6ab220b2-2c82-4df9-bc0d-6c016566c00c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info for Shoppers'])[4]/preceding::p[12]</value>
+      <webElementGuid>50ff9aa5-5fdd-41bf-bc7d-d14fbbb14a13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Primary Care Provider']/parent::*</value>
+      <webElementGuid>065bd022-b825-4324-97b3-eae40677cc30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/p</value>
+      <webElementGuid>40f14449-2c6b-414f-b5cc-6560d5628118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Primary Care Provider' or . = 'Primary Care Provider')]</value>
+      <webElementGuid>b5a7337f-c058-4770-8568-82fa730b2a46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
