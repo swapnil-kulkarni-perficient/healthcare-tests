@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_john</name>
+   <tag></tag>
+   <elementGuidId>ef462e1c-f2cb-49a5-a0e9-d78982065eae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.UserName-sc-1oy22ma-16.hJunBi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbar']/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ff7c5d2f-1e42-464e-a801-be48bb43e781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>UserName-sc-1oy22ma-16 hJunBi</value>
+      <webElementGuid>bb329dad-337f-4233-aefb-e4926bf45d16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>john</value>
+      <webElementGuid>f0936bbb-b1a3-4bf2-a6f9-fd59df5aeccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar&quot;)/div[@class=&quot;MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters&quot;]/div[@class=&quot;NavRightUser-sc-1oy22ma-14 bWojoX&quot;]/span[@class=&quot;UserName-sc-1oy22ma-16 hJunBi&quot;]</value>
+      <webElementGuid>3bb8097f-ced0-4901-91a0-6dbb0a593b29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar']/div[2]/div/span</value>
+      <webElementGuid>e91d3ed0-31f3-455b-9715-bfcc2dc912b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments'])[1]/following::span[3]</value>
+      <webElementGuid>df9d40dc-5cd3-44c5-a4e2-6ddcee71f734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Plan'])[1]/following::span[5]</value>
+      <webElementGuid>f6416a9e-6091-488d-a950-fd568c53a71e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='John'])[1]/preceding::span[1]</value>
+      <webElementGuid>e34a9a0f-6387-4cd9-9a4f-a3dddffa4dd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='john']/parent::*</value>
+      <webElementGuid>1302d3cd-add0-4b48-9f2e-10e27842180f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>c6b7ea48-c9f5-4e9e-bdb0-f97795829429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'john' or . = 'john')]</value>
+      <webElementGuid>fe460c1c-8e59-4f79-bb77-875b6bd31d98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -3,10 +3,10 @@
    <description></description>
    <name>test</name>
    <tag></tag>
-   <UUID>c84650ee-cb5e-4a36-b244-5c4df96b316d</UUID>
+   <UUID>9c69839b-c72b-4c40-ba5d-ce63b8206048</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/loantran/Downloads/healthcare-tests/test.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\swapnil.kulkarni\OneDrive - Perficient, Inc\Desktop\Automation\Katalon\HealthFirstDemo\HealthFirstDemo\test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -25,5 +25,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <type>GENERIC</type>
+   <timeStampInProperties>true</timeStampInProperties>
+   <type>WEBUI</type>
 </Project>

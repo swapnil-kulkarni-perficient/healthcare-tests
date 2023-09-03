@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Confirm Password_Input-iqvzmi-6 Custo_1ea8d2</name>
+   <tag></tag>
+   <elementGuidId>0d1dc70e-0537-4203-874f-a00c75d06b2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6082edf6-992c-4648-92e7-58a35589f3b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>3925e90f-1bb0-40c6-b18e-eae691bfedfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Confirm Password</value>
+      <webElementGuid>f070b2ed-258b-408b-8748-14e0156f6afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Input-iqvzmi-6 CustomInput-r52l9b-1 jEgqwD jFKfTr</value>
+      <webElementGuid>1917df6f-79a0-4ee6-bb69-d9adf9f2790f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ReactAppWrapper-wide&quot;)/div[@class=&quot;Wrapper-sc-1rarzen-0 jpXMAK&quot;]/div[@class=&quot;Container-sc-1rarzen-2 dKSEYs&quot;]/div[@class=&quot;MemberCardsContainer-iqvzmi-10 CustomMemberCardContainer-wbbk72-1 drDnnE jAYFF&quot;]/div[@class=&quot;MemberCardsContainer-r52l9b-6 dGoOcp&quot;]/div[@class=&quot;MemberCard-r52l9b-2 ilpCN&quot;]/div[@class=&quot;FormGrid-iqvzmi-0 exQBYL&quot;]/div[@class=&quot;InputWrapper-iqvzmi-1 cPvRBR&quot;]/div[@class=&quot;MemberIdInput-iqvzmi-5 UJRyT&quot;]/input[@class=&quot;Input-iqvzmi-6 CustomInput-r52l9b-1 jEgqwD jFKfTr&quot;]</value>
+      <webElementGuid>cc01909b-6488-4dd6-a30a-a7698c5f8c14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>2b6182cb-a23f-4e25-adea-5b6019a94ab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ReactAppWrapper-wide']/div/div/div[2]/div/div/div[2]/div[3]/div/input</value>
+      <webElementGuid>04aab4de-db25-4f50-b084-99b45d3e0d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/input</value>
+      <webElementGuid>7ebd5bce-72bc-4964-935a-b631cc5fd251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @placeholder = 'Confirm Password']</value>
+      <webElementGuid>50fb4b9f-7927-4738-97dd-dccf5aedb664</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Get Directions</name>
+   <tag></tag>
+   <elementGuidId>60eddafc-a902-45a4-8793-a2774d3867ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.DirectionButton-tgo80y-31.cJqvTB > div.ButtonLabel-tgo80y-70.iHRitn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='provider-dir-outer-container']/div[2]/div/div[2]/div[2]/div/div/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4834e8b1-7d98-4226-8876-3ac32d8f7200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>region</value>
+      <webElementGuid>fb313093-f570-4fbc-a0cf-a09d426e279d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>MapGetDirectionsButton</value>
+      <webElementGuid>da833770-2054-4a3f-b269-73d46ce63d00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ButtonLabel-tgo80y-70 iHRitn</value>
+      <webElementGuid>64a1f542-ac17-4cc6-8d3b-6859897674c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Directions</value>
+      <webElementGuid>82a872c2-6693-4186-92b9-63f7e37adf7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;provider-dir-outer-container&quot;)/div[@class=&quot;Container-cgp9dk-0 gIxxub&quot;]/div[@class=&quot;InnerWrapper-tgo80y-2 fNcKoj&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-7&quot;]/div[@class=&quot;DetailsCard-tgo80y-0 iNjXXg&quot;]/div[@class=&quot;Section-tgo80y-4 huAyPV&quot;]/button[@class=&quot;DirectionButton-tgo80y-31 cJqvTB&quot;]/div[@class=&quot;ButtonLabel-tgo80y-70 iHRitn&quot;]</value>
+      <webElementGuid>255f4f36-9933-4302-a4c9-90c3c03cf481</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='provider-dir-outer-container']/div[2]/div/div[2]/div[2]/div/div/button/div</value>
+      <webElementGuid>04efc401-2f19-4971-b952-5c16218e63d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sunday'])[1]/following::div[9]</value>
+      <webElementGuid>782eed91-94ca-485d-a8bc-6c441c3882b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saturday'])[1]/following::div[10]</value>
+      <webElementGuid>8de55f27-180d-4348-90df-41fc3a4c1ae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Useful to Know'])[1]/preceding::div[1]</value>
+      <webElementGuid>f43f0f06-e1ba-49d9-9b47-37902c4a9fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accepting New Patients'])[1]/preceding::div[4]</value>
+      <webElementGuid>37583d99-235a-4cfb-ba5a-9f69fa374036</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get Directions']/parent::*</value>
+      <webElementGuid>70b98a99-df20-4f59-8723-ba5f84cb8508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button/div</value>
+      <webElementGuid>3f6f770c-5dd8-4392-a784-ca5f19210c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Get Directions' or . = 'Get Directions')]</value>
+      <webElementGuid>fdeb3b31-fbc7-4b97-8155-d18b1004acba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

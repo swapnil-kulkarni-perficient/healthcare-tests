@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create an account</name>
+   <tag></tag>
+   <elementGuidId>aa754f5f-f38f-4555-981d-42e166983e60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.LinkTo-sc-1rarzen-21.hMJLtR</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ReactAppWrapper-wide']/div/div[2]/div[2]/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4d4b53b3-a889-472b-abb9-8f79a0638056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LinkTo-sc-1rarzen-21 hMJLtR</value>
+      <webElementGuid>927b7a71-ce3d-4d60-a1e8-f5caf0502feb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register</value>
+      <webElementGuid>01c26c7a-9d3b-4b78-98ce-fe2bc3ef427e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create an account</value>
+      <webElementGuid>4892204d-e0d2-4dcb-9210-16cea6fd145a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ReactAppWrapper-wide&quot;)/div[@class=&quot;Wrapper-sc-1rarzen-0 jpXMAK&quot;]/div[@class=&quot;Container-sc-1rarzen-2 dKSEYs&quot;]/div[@class=&quot;Footer-sc-1rarzen-20 iNputS&quot;]/p[@class=&quot;Paragraph-sc-1rarzen-22 etQki&quot;]/a[@class=&quot;LinkTo-sc-1rarzen-21 hMJLtR&quot;]</value>
+      <webElementGuid>8c170129-b7b3-4362-bbd4-917f62dabe34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ReactAppWrapper-wide']/div/div[2]/div[2]/p/a</value>
+      <webElementGuid>8e751c1b-9995-47e6-996b-33905a88732f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create an account')]</value>
+      <webElementGuid>f4ae29af-846a-43ab-9ab0-87c2add51ae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::a[1]</value>
+      <webElementGuid>766bbf34-5a4f-45ca-a1f3-af6d3016f8b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember Username'])[1]/following::a[1]</value>
+      <webElementGuid>a88579d8-f3c2-4a4a-870f-ab4113a39a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Healthfirst.org'])[1]/preceding::a[1]</value>
+      <webElementGuid>588bd6e8-5ccb-4610-a1d6-a5c886843552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::a[2]</value>
+      <webElementGuid>28d07d12-de63-4aa9-9edf-e4df5b9e2759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create an account']/parent::*</value>
+      <webElementGuid>3160d9b8-12e4-4b7e-bd2c-1027b96c8fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/register')]</value>
+      <webElementGuid>09932180-655e-4249-888a-8f6b276addb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>c613fdca-0c8e-4651-861c-f13968ffe931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/register' and (text() = 'Create an account' or . = 'Create an account')]</value>
+      <webElementGuid>f78274c9-cd41-48ee-93e3-9189a5a3b115</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

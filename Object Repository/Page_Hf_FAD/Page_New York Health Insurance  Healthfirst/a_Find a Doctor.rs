@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Find a Doctor</name>
+   <tag></tag>
+   <elementGuidId>ab417ff1-c10d-4ad5-a021-f057ab51eeb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='masthead']/div[2]/div[3]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>30066a96-7420-4ce9-acd6-12d9cc590731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/find-a-doctor</value>
+      <webElementGuid>cf79e18c-8602-44cc-a0fd-071a2d3a17e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>f94f0151-03b4-4734-8c9b-c43a1a9b95a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find a Doctor</value>
+      <webElementGuid>e9a483a4-973c-4b7a-8be2-ba974a7a7a34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;masthead&quot;)/div[@class=&quot;container top-navigation d-flex align-items-center&quot;]/div[@class=&quot;nav-right d-flex align-items-center&quot;]/ul[1]/li[@class=&quot;contact-li&quot;]/a[1]</value>
+      <webElementGuid>d3dd700d-b883-416b-b347-582ac8d37361</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='masthead']/div[2]/div[3]/ul/li[3]/a</value>
+      <webElementGuid>bb693b1a-fb5d-4c74-a3d6-608af43acc68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Find a Doctor')])[2]</value>
+      <webElementGuid>f3ce4fb8-7ecc-4c9f-bba5-5abb070527b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::a[1]</value>
+      <webElementGuid>1b66fce9-05c9-4540-860a-6f7eae300df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No One Knows New Yorkers Better Than We Do'])[1]/following::a[2]</value>
+      <webElementGuid>2d9f5a5a-bfe9-481b-a7f8-bc204e01760b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::a[1]</value>
+      <webElementGuid>d3411bf5-fe77-4317-aa3e-3bcf5a79eaf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Portal'])[1]/preceding::a[2]</value>
+      <webElementGuid>1c7c50bb-dd81-4dfb-bcdd-3919fd5a616a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/find-a-doctor')])[2]</value>
+      <webElementGuid>0d3da51d-5624-4f39-ac2f-c0f4acaf495b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[3]/a</value>
+      <webElementGuid>16de1fd6-47f1-49b0-a880-d61ac1a5d2cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/find-a-doctor' and (text() = 'Find a Doctor' or . = 'Find a Doctor')]</value>
+      <webElementGuid>de27b92f-dc47-4ca0-adc2-8e252d1f4e74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Member Portal</name>
+   <tag></tag>
+   <elementGuidId>1930051f-5f81-4e3b-861d-abc37d13e59d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.dropdown-portal > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='masthead']/div[2]/div[3]/ul/li[4]/ul/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>242bcc25-7055-40ab-a86e-92473d6f4a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.myhfny.org</value>
+      <webElementGuid>a35ec919-0efe-4807-9829-be1900ce362f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>caa5d6a3-d5e5-43f1-8e95-190f147a7bb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Member Portal</value>
+      <webElementGuid>3bfecd4e-5925-431f-b947-6f345d9089eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;masthead&quot;)/div[@class=&quot;container top-navigation d-flex align-items-center&quot;]/div[@class=&quot;nav-right d-flex align-items-center&quot;]/ul[1]/li[@class=&quot;dropdownLinks&quot;]/ul[@class=&quot;dropdown-portal&quot;]/a[1]</value>
+      <webElementGuid>7dcadbd1-aa30-44db-babc-5bf6d6639964</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='masthead']/div[2]/div[3]/ul/li[4]/ul/a</value>
+      <webElementGuid>4b0174fc-9df4-4eaa-aa76-674265f4a946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Member Portal')]</value>
+      <webElementGuid>c9a84aef-71fc-47bf-bf95-498d0d7192f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::a[1]</value>
+      <webElementGuid>7767b96f-23b6-45ce-b66d-36f97fe6b55a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find a Doctor'])[2]/following::a[2]</value>
+      <webElementGuid>247907e5-23d6-4968-9729-eb1b8d9d5e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provider Portal'])[1]/preceding::a[1]</value>
+      <webElementGuid>8a27896b-ebc2-4bd2-a292-d3ead08cd623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Broker Portal'])[1]/preceding::a[2]</value>
+      <webElementGuid>9983aca3-79f5-4b2e-a351-59016d41e093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Member Portal']/parent::*</value>
+      <webElementGuid>19e694f0-ebf9-43e3-905e-e99d8b07a5a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.myhfny.org')]</value>
+      <webElementGuid>0d7b50f2-0af4-41a3-b1c7-a4ad1872db09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/a</value>
+      <webElementGuid>1168f217-af07-4208-b3a4-02dede64f485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.myhfny.org' and (text() = 'Member Portal' or . = 'Member Portal')]</value>
+      <webElementGuid>dde7d52d-9e63-4b44-aa49-8a840fa8a3a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

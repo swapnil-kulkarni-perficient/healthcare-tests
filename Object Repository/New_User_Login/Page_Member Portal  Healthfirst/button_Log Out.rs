@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Log Out</name>
+   <tag></tag>
+   <elementGuidId>3b12c2e2-a5f8-4708-bf60-712dc92c5c32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.Logout-sc-1oy22ma-18.lbOCyM</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>560c1a50-51dc-4dcd-85df-bffd8d6629b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6e05a9a4-b7c6-4723-8bc4-3f75e734fb87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Logout-sc-1oy22ma-18 lbOCyM</value>
+      <webElementGuid>be5fe292-ef63-4210-a8c6-d1f33045407d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log Out</value>
+      <webElementGuid>239b2626-aefb-42be-bf02-ed0c404bb0e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar&quot;)/div[@class=&quot;MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters&quot;]/div[@class=&quot;NavRightUser-sc-1oy22ma-14 cOzUwZ&quot;]/div[@class=&quot;UserCard-sc-1oy22ma-17 eLZRvM&quot;]/button[@class=&quot;Logout-sc-1oy22ma-18 lbOCyM&quot;]</value>
+      <webElementGuid>c228dcbc-b2cc-465e-8343-e4d36b5d1c34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>56199297-0afb-4532-ab3b-44b0a392ab99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar']/div[2]/div/div/button</value>
+      <webElementGuid>58991246-da16-45ee-b8b1-a719611febc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Settings'])[1]/following::button[1]</value>
+      <webElementGuid>664c4e25-576b-4037-91ab-e761ac89ab6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='中文'])[1]/following::button[1]</value>
+      <webElementGuid>dd099749-3881-4a7c-8525-e34ea384d34c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::button[1]</value>
+      <webElementGuid>f93f1ad8-4e16-4f65-b619-dd77ac148349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Good evening,'])[1]/preceding::button[2]</value>
+      <webElementGuid>688ac341-362b-46f5-97f1-35345aac4dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log Out']/parent::*</value>
+      <webElementGuid>65f9c061-258b-45aa-a9f0-273dc82e1f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>4e5b4f08-f5be-4d33-abb0-8c7bb08ee207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Log Out' or . = 'Log Out')]</value>
+      <webElementGuid>2b6d9190-3b03-48e0-862d-0b57d61d5175</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

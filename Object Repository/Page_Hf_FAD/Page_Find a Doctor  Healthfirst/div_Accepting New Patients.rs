@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Accepting New Patients</name>
+   <tag></tag>
+   <elementGuidId>0b04fec1-7491-4351-b652-5247d559b613</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ChipLabel-sc-1myu3yy-2.hKDgHp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='provider-dir-outer-container']/div[2]/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>01ae71dd-7e6b-4341-b522-c3eba728f9b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#3e7128</value>
+      <webElementGuid>5c295c4a-3628-4e0a-9839-f153253dd29c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>region</value>
+      <webElementGuid>90b138c4-448d-4e8d-af1f-b9df5bc7763c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Accepting New Patients</value>
+      <webElementGuid>84dd88e6-d987-4700-989a-eb0e18583fe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ChipLabel-sc-1myu3yy-2 hKDgHp</value>
+      <webElementGuid>c87e579a-9f0f-428a-9551-61b68aacec54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accepting New Patients</value>
+      <webElementGuid>d1bfc4cd-031b-47ba-bb18-8c484feabc5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;provider-dir-outer-container&quot;)/div[@class=&quot;Container-cgp9dk-0 gIxxub&quot;]/div[@class=&quot;InnerWrapper-tgo80y-2 fNcKoj&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-7&quot;]/div[@class=&quot;DetailsCard-tgo80y-0 igzrPw&quot;]/div[@class=&quot;Section-tgo80y-4 huAyPV&quot;]/div[@class=&quot;ChipContainer-tgo80y-93 ikSSBL&quot;]/div[@class=&quot;ChipContainer-sc-1myu3yy-0 RJmWD&quot;]/div[@class=&quot;ChipLabel-sc-1myu3yy-2 hKDgHp&quot;]</value>
+      <webElementGuid>2c5ca698-9d8b-40e3-b439-b02d559c6beb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='provider-dir-outer-container']/div[2]/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]</value>
+      <webElementGuid>e17c67f8-b0e4-4ff4-8e09-01bbf17c92b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Useful to Know'])[1]/following::div[5]</value>
+      <webElementGuid>4a2ddb4b-7c49-468a-a29a-35ac92dc53e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Directions'])[1]/following::div[8]</value>
+      <webElementGuid>30ed8ab8-671e-4dcb-b8ee-bc4eefd1a3bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Age Requirement: Over 18'])[1]/preceding::div[2]</value>
+      <webElementGuid>77236c7b-d9a1-43eb-a5b0-85f6f43c2fca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offering Telemedicine'])[1]/preceding::div[5]</value>
+      <webElementGuid>07ce29a5-dc0e-42de-b59b-1c2a91aabec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accepting New Patients']/parent::*</value>
+      <webElementGuid>3137bf9c-e364-44e5-b783-1d342babbc2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]</value>
+      <webElementGuid>70457c37-6522-4a89-8b01-705d554988d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Accepting New Patients' or . = 'Accepting New Patients')]</value>
+      <webElementGuid>68793f88-a313-4842-99ac-e49b55db8b54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

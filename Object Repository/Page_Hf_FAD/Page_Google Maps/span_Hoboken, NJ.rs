@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hoboken, NJ</name>
+   <tag></tag>
+   <elementGuidId>d73b2bb1-58a6-4b4a-933f-17b0b5444e6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.EmLCAe.fontBodyMedium > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sbse0x0']/span[5]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1cb51c80-ef31-4b9e-aac7-0cb11b174c79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jstcache</name>
+      <type>Main</type>
+      <value>798</value>
+      <webElementGuid>b9554291-c8c8-4f79-b37a-14c7c2dfbcf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsinstance</name>
+      <type>Main</type>
+      <value>*0</value>
+      <webElementGuid>f36232e3-0542-4a2a-b5b2-4ad9594576dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hoboken, NJ</value>
+      <webElementGuid>ad3a510b-5288-42b3-8910-b30df0fee800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sbse0x0&quot;)/span[@class=&quot;EmLCAe fontBodyMedium&quot;]/span[1]</value>
+      <webElementGuid>4ac73db1-d36d-4f52-a8e2-8ad0f1c02805</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sbse0x0']/span[5]/span</value>
+      <webElementGuid>f0a48d2d-9f86-4a51-b1bd-f3dc70dca23b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add destination'])[1]/following::span[8]</value>
+      <webElementGuid>7308811d-cc92-4084-bd51-b002816ee583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best'])[1]/following::span[9]</value>
+      <webElementGuid>f977f897-b20c-4464-878e-262030ed20f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jersey City, NJ'])[1]/preceding::span[7]</value>
+      <webElementGuid>415cdfea-5f00-4718-83b5-de65f841fecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jersey City, NJ'])[2]/preceding::span[15]</value>
+      <webElementGuid>c8375338-62a2-4d89-8297-c5c39565eaa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hoboken, NJ']/parent::*</value>
+      <webElementGuid>38f620f4-7e13-42ca-b84e-a3ddb60983ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]/span</value>
+      <webElementGuid>7ebc1ca6-c4c2-4d8b-b45f-4bc4979c9f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hoboken, NJ' or . = 'Hoboken, NJ')]</value>
+      <webElementGuid>968919d1-2799-468c-beb6-44054809c0ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
