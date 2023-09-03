@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Skip for now</name>
+   <tag></tag>
+   <elementGuidId>51a3f6bb-4f8d-43b0-8a84-072a177992b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.Link-iqvzmi-24.fyJRef</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ReactAppWrapper-wide']/div[3]/div[2]/div[2]/form/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2ea3a0ae-c0ba-4ddc-9a2e-3a924f7fc23d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6fb45d79-d44b-46f4-8b37-53cd259b2cca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Link-iqvzmi-24 fyJRef</value>
+      <webElementGuid>d845bb68-723b-4fed-bd66-5541ad5ee663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Skip for now</value>
+      <webElementGuid>49680d84-8e41-43f1-9a9f-5b66e4a32ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ReactAppWrapper-wide&quot;)/div[@class=&quot;Wrapper-sc-1rarzen-0 jpXMAK&quot;]/div[@class=&quot;Container-sc-1rarzen-2 AddMembershipContainer-sc-1x76owo-2 dKSEYs eIzHtR&quot;]/div[@class=&quot;FormWrapper-sc-1x76owo-1 bYGApz&quot;]/form[@class=&quot;Form-sc-1rarzen-5 AddMemberForm-sc-1x76owo-0 isMXzi gWUEbY&quot;]/div[@class=&quot;CenterInfo-iqvzmi-15 kdbwwQ&quot;]/a[@class=&quot;Link-iqvzmi-24 fyJRef&quot;]</value>
+      <webElementGuid>67c719bf-4ec6-4840-87ae-d1e074892630</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ReactAppWrapper-wide']/div[3]/div[2]/div[2]/form/div[2]/a</value>
+      <webElementGuid>72c3206a-8f4c-4f7e-b26e-f44363b0d288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Skip for now')]</value>
+      <webElementGuid>dc031509-2e9f-4eac-a189-a7543ee2f673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Member ID is required to get the most out of your Healthfirst account.'])[1]/following::a[1]</value>
+      <webElementGuid>b6384a6c-e06c-4404-adc8-9785fb774bf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member ID'])[1]/preceding::a[1]</value>
+      <webElementGuid>d15689cf-4d84-4371-a42f-14bb9c86a756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This can be found on your Healthfirst Member ID card.'])[1]/preceding::a[1]</value>
+      <webElementGuid>583e8d2f-0b8f-435d-b099-6f5401a75ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Skip for now']/parent::*</value>
+      <webElementGuid>103f3997-60a6-43cc-9a09-b453278f50d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>e6ca9f51-af09-4350-b315-702019a0c9fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Skip for now' or . = 'Skip for now')]</value>
+      <webElementGuid>f62dcfc7-e298-4e20-8067-93678786e4d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
